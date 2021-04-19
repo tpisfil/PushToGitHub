@@ -2,4 +2,4 @@
     
 This is a readme for our first project! 
 
-Hello again, just trying this out :)
+Hello again, I'm just trying this out :)
